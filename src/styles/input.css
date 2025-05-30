@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-vcborn: #163469;
+  --color-vclinux: #7000aa;
+  --color-vcast: #008ea7;
+}
