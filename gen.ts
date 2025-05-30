@@ -48,6 +48,7 @@ const generateArticlesHTML = () => {
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>記事一覧</title>
+  <meta name="robots" content="noindex,nofollow" />
   <link href="./styles/output.css" rel="stylesheet" />
 </head>
 <body class="bg-gray-50 p-6">
